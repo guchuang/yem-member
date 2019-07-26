@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.alibaba.fastjson.JSONObject;
+import com.yem.common.BaseMsgResponse;
 import com.yem.constant.ApiConstant;
 import com.yem.constant.Constants;
 import com.yem.dto.YemMemberDTO;
@@ -19,7 +20,6 @@ import com.yem.request.ModifyYemMemberRequest;
 import com.yem.request.QueryYemMemberListRequest;
 import com.yem.request.QueryYemMemberRequest;
 import com.yem.response.AddYemMemberResponse;
-import com.yem.response.BaseMsgResponse;
 import com.yem.response.ModifyYemMemberResponse;
 import com.yem.response.QueryYemMemberListResponse;
 import com.yem.response.QueryYemMemberResponse;

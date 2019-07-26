@@ -28,8 +28,8 @@
         </dependency>
         
         <dependency>
-			<groupId>com.yem</groupId>
-			<artifactId>yem-common</artifactId>
+            <groupId>com.yem</groupId>
+            <artifactId>yem-model</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
         </dependency>
         
